@@ -14,10 +14,10 @@
 #### &#128200; GitHub Stats
 ---
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=elindgren&theme=synthwave" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elindgren&theme=synthwave" />
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=elindgren&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elindgren&theme=synthwave" />
+</p>
 
 <!--
 **elindgren/elindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
