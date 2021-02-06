@@ -4,11 +4,11 @@
 ### Hi there 👋
 ---
 
-#### I'm Eric, and this is my cat, Berlioz. &#128570;
+I'm Eric, and this is my cat, Berlioz. &#128570;
 
 <img align="center" src="./berlioz.jpg" width="200px">
 
-#### 🔭 I’m a MSc student in Physics, currently doing my Master's Thesis in applying Graph Neural Networks in Neuroscience &#129504;
+🔭 I’m a MSc student in Physics, currently doing my Master's Thesis in applying Graph Neural Networks in Neuroscience &#129504;
 
 #### GitHub Stats
 ---
