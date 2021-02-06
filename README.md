@@ -9,7 +9,7 @@
 
 #### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=elindgren&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elindgren&theme=gruvbox" />
 
 <!--
 **elindgren/elindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
