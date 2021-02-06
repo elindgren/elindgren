@@ -1,6 +1,7 @@
 <!-- [![Header](./hello_there.gif "Berlioz")](https://github.com/elindgren/elindgren/) -->
-<img align="center" src="./hello_there.gif" width="400px">
-
+<p align="center">
+  <img align="center" src="./hello_there.gif" width="400px">
+</p>
 ---
 
 👋 I'm Eric, and this is my cat, Berlioz. &#128570;
