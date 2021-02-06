@@ -3,7 +3,7 @@
   <img align="center" src="./hello_there.gif" width="425px">
 </p>
 
-----
+---
 
 👋 I'm Eric, and this is my cat, Berlioz. &#128570;
 
