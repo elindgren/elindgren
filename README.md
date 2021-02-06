@@ -3,6 +3,8 @@
 
 ### Hi there 👋
 
+I'm Eric, and this is my cat, Berlioz. &#128570;
+
 <!--
 **elindgren/elindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
