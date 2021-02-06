@@ -11,8 +11,8 @@
 
 #### GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=elindgren&theme=tokyonight" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elindgren&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=elindgren&theme=synthwave" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elindgren&theme=synthwave" />
 
 <!--
 **elindgren/elindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
