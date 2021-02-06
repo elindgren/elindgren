@@ -1,10 +1,9 @@
-[![Header](./hello_there.gif "Berlioz")](https://github.com/elindgren/elindgren/)
-
-
-### Hi there 👋
+<p align="center">
+  [![Header](./hello_there.gif "Berlioz")](https://github.com/elindgren/elindgren/)
+ </p>
 ---
 
-I'm Eric, and this is my cat, Berlioz. &#128570;
+👋 I'm Eric, and this is my cat, Berlioz. &#128570;
 
 <img align="center" src="./berlioz.jpg" width="200px">
 
