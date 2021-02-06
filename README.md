@@ -1,5 +1,5 @@
 [![Header](./hello_there.gif "Berlioz")](https://github.com/elindgren/elindgren/)
-<img align="center" src="./hello_there.gif" width="200px">
+<img align="center" src="./hello_there.gif" width="400px">
 
 ---
 
