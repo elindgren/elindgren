@@ -1,4 +1,4 @@
-<!-- [![Header](./hello_there.gif "Berlioz")](https://github.com/elindgren/elindgren/) -->
+[![Header](./hello_there.gif "Berlioz")](https://github.com/elindgren/elindgren/)
 
 
 ### Hi there 👋
