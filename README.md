@@ -15,14 +15,11 @@
 #### &#128200; GitHub Stats
 ---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=elindgren&theme=synthwave&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elindgren&theme=synthwave&langs_count=4" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/?username=elindgren&theme=synthwave&show_icons=true" />
 <!--
 **elindgren/elindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="./berlioz.jpg" width="30px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elindgren&theme=synthwave&langs_count=4" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
