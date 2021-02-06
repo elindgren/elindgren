@@ -7,8 +7,9 @@
 
 👋 I'm Eric, and this is my cat, Berlioz. &#128570;
 
-<img align="center" src="./berlioz.jpg" width="200px">
-
+<p align="center">
+  <img src="./berlioz.jpg" width="200px">
+</p>
 🔭 I’m a MSc student in Physics, currently doing my Master's Thesis in applying Graph Neural Networks in Neuroscience &#129504;
 
 #### &#128200; GitHub Stats
