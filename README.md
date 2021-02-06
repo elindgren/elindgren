@@ -17,7 +17,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=elindgren&theme=synthwave" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elindgren&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elindgren&theme=synthwave&layout=compact" />
 </p>
 
 <!--
