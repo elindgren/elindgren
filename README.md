@@ -3,13 +3,17 @@
 
 ### Hi there 👋
 
-#### I'm Eric, and this is my cat, Berlioz. &#128570; <img src="./berlioz.jpg" width="30px">
+#### I'm Eric, and this is my cat, Berlioz. &#128570;
 
 #### 🔭 I’m a MSc student in Physics, currently doing my Master's Thesis in applying Graph Neural Networks in Neuroscience &#129504;
 
+#### GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=elindgren&theme=gruvbox" />
+
 <!--
 **elindgren/elindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="./berlioz.jpg" width="30px">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
