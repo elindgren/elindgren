@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/elindgren/<OWNER>/<OWNER>/berlioz.jpg "Header")](https://github.com/elindgren/elindgren/)
+[![Header](https://raw.githubusercontent.com/elindgren/elindgren/elindgren/berlioz.jpg "Berlioz")](https://github.com/elindgren/elindgren/)
 
 
 ### Hi there 👋
