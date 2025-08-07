@@ -10,7 +10,7 @@
 <p align="center">
   <img src="./berlioz.jpg" width="200px">
 </p>
-🔭 I’m a MSc student in Physics, currently doing my Master's Thesis in applying Graph Neural Networks in Neuroscience &#129504;
+🔭 I’m a PhD student in computational physics, pursuing research in accelerating molecular simulation with machine learening and AI &#129504;
 
 #### &#128200; GitHub Stats
 ---
