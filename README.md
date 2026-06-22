@@ -10,7 +10,7 @@
 <p align="center">
   <img src="./berlioz.jpg" width="200px">
 </p>
-🔭 I’m a PhD student in computational physics, pursuing research in accelerating molecular simulation with machine learning.
+🔭 I have a PhD in computational physics and machine learning, pursuing research in accelerating molecular simulation with machine learning.
 
 #### &#128200; GitHub Stats
 ---
